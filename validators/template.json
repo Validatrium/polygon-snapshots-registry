@@ -1,0 +1,22 @@
+{
+  "validator": "YOUR_VALIDATOR_NAME",
+  "network": "polygon-mainnet",
+  "bor": {
+    "block": $BOR_BLOCK,
+    "url": "https://example.com/snapshots/polygon/$BOR_ARCHIVE",
+    "checksum_url": "https://snap.validatrium.com/polygon/$BOR_ARCHIVE.sha256",
+    "size": "$BOR_SIZE_HUMAN",
+    "size_bytes": $BOR_SIZE_BYTES,
+    "compression": "tar.zst",
+    "updated_at": "2026-01-01T00:00:00Z"
+  },
+  "heimdall": {
+    "block": $HEIMDALL_BLOCK,
+    "url": "https://example.com/snapshots/polygon/$HEIMDALL_ARCHIVE",
+    "checksum_url": "https://snap.validatrium.com/polygon/$HEIMDALL_ARCHIVE.sha256",
+    "size": "$HEIMDALL_SIZE_HUMAN",
+    "size_bytes": $HEIMDALL_SIZE_BYTES,
+    "compression": "tar.zst",
+    "updated_at": "2025-01-01T00:00:00Z"
+  }
+}
