@@ -2,7 +2,7 @@
   "validator": "Validatrium",
   "network": "polygon mainnet",
   "bor": {
-    "block": 82060633,
+    "block": 82060632,
     "url": "https://snap.validatrium.com/polygon/bor_82060630_backup_20260124.tar.zst",
     "checksum_url": "https://snap.validatrium.com/polygon/bor_82060630_backup_20260124.tar.zst.sha256",
     "size": "3.34TiB",
@@ -11,7 +11,7 @@
     "updated_at": "2026-01-24T23:09:40Z"
   },
   "heimdall": {
-    "block": 37572318,
+    "block": 37572319,
     "url": "https://snap.validatrium.com/polygon/heimdall_37572315_backup_20260124.tar.zst",
     "checksum_url": "https://snap.validatrium.com/polygon/heimdall_37572315_backup_20260124.tar.zst.sha256",
     "size": "157.57GiB",
