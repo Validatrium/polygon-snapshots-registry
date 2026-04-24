@@ -2,21 +2,21 @@
   "validator": "Validatrium",
   "network": "polygon mainnet",
   "bor": {
-    "block": 84722503,
-    "url": "https://snap.validatrium.com/polygon/bor_84722503_backup_20260327.tar.zst",
-    "checksum_url": "https://snap.validatrium.com/polygon/bor_84722503_backup_20260327.tar.zst.sha256",
-    "size": "3.67TiB",
-    "size_bytes": 4030958374106,
+    "block": 85932099,
+    "url": "https://snap.validatrium.com/polygon/bor_85932099_backup_20260424.tar.zst",
+    "checksum_url": "https://snap.validatrium.com/polygon/bor_85932099_backup_20260424.tar.zst.sha256",
+    "size": "3.82TiB",
+    "size_bytes": 4197393273098,
     "compression": "tar.zst",
-    "updated_at": "2026-03-27T13:18:02Z"
+    "updated_at": "2026-04-24T12:22:57Z"
   },
   "heimdall": {
-    "block": 41852008,
-    "url": "https://snap.validatrium.com/polygon/heimdall_41852008_backup_20260327.tar.zst",
-    "checksum_url": "https://snap.validatrium.com/polygon/heimdall_41852008_backup_20260327.tar.zst.sha256",
-    "size": "157.12GiB",
-    "size_bytes": 168705651330,
+    "block": 43700665,
+    "url": "https://snap.validatrium.com/polygon/heimdall_43700665_backup_20260424.tar.zst",
+    "checksum_url": "https://snap.validatrium.com/polygon/heimdall_43700665_backup_20260424.tar.zst.sha256",
+    "size": "159.21GiB",
+    "size_bytes": 170952118537,
     "compression": "tar.zst",
-    "updated_at": "2026-03-27T13:18:02Z"
+    "updated_at": "2026-04-24T12:22:57Z"
   }
 }
